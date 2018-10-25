@@ -14,6 +14,7 @@ Rajesh Verma
 - [TrishaAguinaldo](https://github.com/kronicle114)
 - [rozenstraws](https://github.com/rozenstraws)
 - [Jason Chan](https://github.com/QubeChan)
+sadaas
 - [SteveMarshall](https://github.com/marshast)
 - [Swarup Rajbhandari](https://github.com/swarup182)
 - [HalmosiGabor](https://github.com/halmosigabor)
